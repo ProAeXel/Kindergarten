@@ -1,0 +1,9 @@
+<menu class="hiddenSpellError">xmlns:android="http://schemas.android.com/apk/res/android">
+    <pre>
+    id="@+id/camera"
+    android:title="Camera" />
+    id="@+id/gallery"
+    android:title="Gallery" />
+
+    </pre>
+</menu>

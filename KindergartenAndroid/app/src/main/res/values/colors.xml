@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#233ED8</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="sortofblue">#2b6bd1</color>
+    <color name="sortofblueopacity">#22000000</color>
+    <color name="dividerColor">#80CBC4</color>
+    <color name="nav_list_item_title">#AAAAAA</color>
+    <color name="nav_list_group_title">#808080</color>
+    <color name="mediudarkred">#FF0000</color>
+    <color name="lightblue">#0061ff</color>
+
+    <color name="refresh">#008000</color>
+    <color name="refresh1">#008000</color>
+    <color name="refresh2">#008000</color>
+</resources>
